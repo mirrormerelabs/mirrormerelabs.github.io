@@ -1,0 +1,30 @@
+---
+title: "District poverty in Mozambique"
+subtitle: "Small area estimates for all 157 districts"
+---
+
+[In progress]{.status}
+
+## In plain language
+
+National surveys tell us a lot about poverty in Mozambique as a whole, and in each province. But decisions about schools, clinics, roads and cash transfers are often made at district level, and the surveys don't interview enough households in each district to give a reliable figure on their own.
+
+This project fills that gap. It combines the latest Demographic and Health Survey with open geospatial data, such as satellite measures of night-time lights, land cover and access to services, to estimate poverty in every one of Mozambique's 157 districts. Each estimate comes with a measure of how confident we can be in it, so it's clear where the numbers are solid and where more data is needed.
+
+## Approach
+
+- **Data:** the 2022–23 Mozambique Demographic and Health Survey, linked to open geospatial covariates at district level.
+- **Model:** spatial Fay-Herriot small area models fitted in R-INLA, which borrow strength from neighbouring districts and from the covariates.
+- **Uncertainty:** calibrated intervals for every district, not just a point estimate.
+- **Testing:** a simulation study checks that the method recovers known values before it is applied to real data.
+- **Data protection:** only aggregated results and code are published. No survey microdata or confidential locations.
+
+## Interactive map
+
+::: {.map-wrap}
+<iframe class="map-frame" src="https://mirrormerelabs.github.io/mozambique_sae/" title="Interactive map of district poverty estimates in Mozambique" loading="lazy"></iframe>
+:::
+
+[[Open the map full screen](https://mirrormerelabs.github.io/mozambique_sae/), or see [the code and full method on GitHub](https://github.com/mirrormerelabs/mozambique_sae).]{.map-note}
+
+[Back to all work](index.qmd)

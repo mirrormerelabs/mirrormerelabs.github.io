@@ -1,0 +1,82 @@
+---
+title: "Services"
+description-meta: "Impact evaluation, monitoring and adaptive management, satellite and geospatial analysis, nature-based solutions and social and environmental outcome measurement, from Mirrormere Labs in Edinburgh."
+---
+
+[I help organisations find out what their work is changing for people and nature, and show it clearly. I work with development programmes and funders, and with businesses and investors in nature and climate.]{.lede}
+
+## What I offer
+
+### Impact evaluation
+
+Independent mid-term reviews, baselines, endlines and impact evaluations. Theory-based evaluation built on a clear Theory of Change, so the question is how and why change happened, not only whether it did. Quasi-experimental and experimental designs, power analysis and multi-stage sampling, with outcomes verified against the OECD-DAC criteria. Recent reviews for UK Defra's Biodiversity Challenge Funds and Biodiverse Landscapes Fund, and baseline support for Mastercard Foundation.
+
+### Monitoring and adaptive management
+
+Monitoring, evaluation and learning (MEL) systems that teams actually use: Theories of Change, results frameworks, indicators and data collection plans, with regular points to review the evidence and adjust. I have also reviewed results across a portfolio of more than 700 projects, so I know what makes monitoring data usable at scale.
+
+I worked on the Biodiversity Challenge Funds' 2026 standard indicator method notes for measuring [enhanced livelihoods](https://www.darwininitiative.org.uk/media/t0tpplkt/bcfs-standard-indicator-method-note-sustainable-livelihoods-feb-26-final.pdf) and [enhanced wellbeing](https://www.darwininitiative.org.uk/media/02jli0bt/bcfs-standard-indicator-method-note-livelihoods-and-poverty-jan-26-final-final.pdf).
+
+### Satellite data and geospatial analysis
+
+Satellite imagery (Sentinel-1 and 2, Landsat) and GIS to map land cover and land use change, forest loss, cropland and settlement across whole landscapes, including places that are hard or unsafe to visit. Results come with accuracy assessments and error-adjusted areas, so you know how far to trust them.
+
+### Nature-based solutions
+
+Baselines, monitoring and outcome measurement for restoration, conservation and other nature-based projects, covering both the ecological results and what changes for the people who live there. My MSc in Ecosystem Services and work on biodiversity standards and conservation programmes underpin this.
+
+### Social and environmental outcomes
+
+Livelihoods, wellbeing and poverty measured alongside environmental change. Household surveys, sampling frames, enumerator training, interviews and focus groups, and data quality assurance, in low-resource settings. Where surveys are too thin, small area estimation and machine learning fill the gaps, with uncertainty reported.
+
+### Clear outcomes from complex ideas
+
+Ambitious programmes often promise many things at once. I help teams pin down a small number of outcomes that matter, define how to measure them, and report them in plain language for boards, investors, funders and governments.
+
+## Who I work with
+
+### Development programmes and funders
+
+Independent evaluations and reviews, MEL design and quality assurance for programmes funded by UK Government and foundations, and as a technical expert on bids and evaluation teams.
+
+### Nature and climate businesses and investors
+
+Project developers, impact investors and sustainability teams who need credible evidence of social and environmental outcomes: baselines for nature-based projects, satellite monitoring of land and restoration, and outcome frameworks that stand up to scrutiny.
+
+## How I work
+
+::: {.principles}
+- **Reproducible.** Numbered scripts, locked environments, logged runs and automated checks, so anyone can rerun the analysis and get the same answer.
+- **Honest about uncertainty.** Estimates come with intervals, and methods are tested on simulated data before they are used on real data.
+- **Clear about limits.** Every project states what the data can't show and anything that changed from the original plan.
+- **Plain language first.** Each project starts with a summary a non-specialist can read.
+- **Responsible with data.** I publish aggregated results and code, never survey microdata or confidential locations.
+:::
+
+## Tools
+
+```{=html}
+<p class="badges">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="28">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Earth Engine" height="28">
+  <img src="https://img.shields.io/badge/R--INLA-1c5cab?style=flat-square" alt="R-INLA" height="28">
+  <img src="https://img.shields.io/badge/xarray%20%2B%20Dask-2a78d6?style=flat-square" alt="xarray + Dask" height="28">
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" height="28">
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" height="28">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28">
+</p>
+```
+
+[Most of my public code is on [GitHub](https://github.com/mirrormerelabs).]{.tools}
+
+::: {.contact-strip}
+::: {}
+## Talk through a project
+
+Tell me what you're trying to show, and I'll suggest how to measure it.
+:::
+::: {}
+[Get in touch](contact.qmd){.btn-solid}
+:::
+:::

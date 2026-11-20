@@ -1,0 +1,44 @@
+---
+title: "Cropland and conflict in Cabo Delgado"
+subtitle: "Did armed conflict make agriculture move?"
+---
+
+[In progress]{.status}
+
+## What it aims to achieve
+
+The project asks whether armed conflict in Cabo Delgado, northern Mozambique, made agriculture move: shrink, relocate or expand.
+
+The original question was narrower: did existing farmland get worse? The broader framing matters for two reasons. When fields are abandoned because of conflict, they usually turn to scrub, so vegetation gets greener, not browner. And displaced people clear new land where they settle. A fixed cropland mask would miss both.
+
+The study compares six conflict-core districts with two low-conflict control districts, Chiure and Namuno. The aim is an open, reproducible method that can then be applied in the Democratic Republic of Congo, South Sudan and Ethiopia. Making it transferable is a core design rule, and it sets this work apart from the one comparable local study (Bacar & Faque, 2025).
+
+## How it works
+
+### Satellite data
+
+- **Sentinel-2 (10 m)** is the main optical source from 2017 on.
+- **Sentinel-1 radar** (VV/VH backscatter) sees through wet-season cloud and picks up field structure.
+- **Landsat 2015–2017**, pooled into one composite, gives the pre-conflict baseline, because 2016 alone was too cloudy.
+- All data come free from the Microsoft Planetary Computer, and the analysis runs on a laptop or in Google Colab.
+
+### Method
+
+- Each pixel gets a smoothed time series for each agricultural year. Phenology features are extracted from it: amplitude, seasonal integral, timing, dry-season baseline and others.
+- Each year, every pixel across the whole landscape is classified as cultivated, natural, water or settlement. There is no fixed cropland mask.
+- Movement is measured as new cultivation, abandonment, net change, centroid shift and distance to the cultivation frontier.
+- Shifting cultivation moves fields around anyway, so "normal" movement is measured from the baseline years and the control districts. The conflict effect is the departure from that normal.
+
+### Conflict and confounders
+
+- **Conflict:** UCDP georeferenced event data give a conflict-intensity gradient, used in a difference-in-differences or panel design.
+- **Drought:** CHIRPS rainfall is the drought control.
+- **Cross-checks:** IOM Displacement Tracking Matrix data and FEWS NET/IPC food-security phases are used to check the results.
+
+### Accuracy
+
+- A photo-interpreted reference sample.
+- A random forest classifier checked by spatial cross-validation and an area-of-applicability test.
+- Error-adjusted area estimates with confidence intervals (Olofsson et al.), so every area figure comes with its uncertainty.
+
+[Back to all work](index.qmd)

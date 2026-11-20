@@ -1,0 +1,18 @@
+---
+title: "Contact"
+description-meta: "Contact Mirrormere Labs about impact evaluation, monitoring, satellite data and nature-based solutions work."
+---
+
+[If you're planning a programme, evaluation, bid or investment that needs solid evidence on social or environmental change, I'd be glad to talk.]{.lede}
+
+I take on independent evaluations, MEL design, satellite and geospatial analysis, and outcome measurement for development programmes, funders, and nature and climate businesses. It helps to include a line on the project, the timing and what you need to show.
+
+**Email:** [{{< var email >}}](mailto:{{< var email >}})
+
+**CV:** [Download (PDF)](files/Peter-Hargreaves-CV.pdf)
+
+**LinkedIn:** [Peter Hargreaves](https://www.linkedin.com/in/peter-hargreaves-b57932107/)
+
+**GitHub:** [mirrormerelabs](https://github.com/mirrormerelabs)
+
+**Address:** Mirrormere Labs, Summit House, 4-5 Mitchell Street, Edinburgh EH6 7BD

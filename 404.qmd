@@ -1,0 +1,5 @@
+---
+title: "Page not found"
+---
+
+This page doesn't exist, or it moved when the site was rebuilt. Try the [home page](/index.html), [Work](/work/index.html) or [Contact](/contact.html).

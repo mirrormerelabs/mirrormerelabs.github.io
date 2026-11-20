@@ -1,0 +1,157 @@
+---
+title: "Work"
+---
+
+[Independent evaluations, reviews and studies for conservation and development programmes across Africa, Asia and Latin America, and research I lead through Mirrormere Labs.]{.lede}
+
+## Evaluations and studies {#evaluations}
+
+::: {.project}
+::: {.meta}
+**Madagascar, Bolivia, Kenya, Nepal, Zambia** \
+NIRAS for UK Defra Biodiversity Challenge Funds \
+May–August 2026
+:::
+::: {}
+### Mid-term review: Scaling Equitable Governance in Area-Based Conservation (SEGA)
+
+[Role: evaluation lead]{.role}
+
+A mid-term review of IIED's programme scaling the Site-level Assessment of Governance and Equity (SAGE) tool across five countries, with fieldwork in Madagascar and remote data collection elsewhere. It assesses progress against the Theory of Change, verifies outcomes against the OECD-DAC criteria, and looks at how equitable governance is built in at site level, in line with the 30x30 commitments of the Kunming-Montreal Global Biodiversity Framework.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Nigeria** \
+NIRAS for UK Defra Biodiversity Challenge Funds \
+2026
+:::
+::: {}
+### Monitoring review: habitat restoration for the Niger Delta red colobus
+
+[Role: review lead]{.role}
+
+A review of a Defra-funded conservation project to appraise progress and sharpen its direction. It tested the Theory of Change and its assumptions and verified outcomes against the OECD-DAC criteria, combining document review with key informant interviews and focus group discussions.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Ethiopia, Ghana, Nigeria, Rwanda** \
+WUSC for Mastercard Foundation \
+2026
+:::
+::: {}
+### Multi-country baseline study: Pathways to Scale
+
+[Role: MEL expert and quality assurance]{.role}
+
+Monitoring, evaluation and learning support and quality assurance for the baseline of a five-year programme backing women-owned and women-led enterprises. Reviewed data collection tools, supported sampling frames in four countries, and reviewed analysis and reports for technical accuracy.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**India** \
+Rockefeller Foundation
+:::
+::: {}
+### Impact evaluation design: solar energy and women-led businesses
+
+[Role: evaluation design]{.role}
+
+Designed an experimental study and statistical power analysis for a programme assessing how adopting solar energy affects women-led small businesses.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Kenya, Uganda, Madagascar, India, Peru, Brazil** \
+NIRAS for UK Defra Biodiversity Challenge Funds \
+September–December 2024
+:::
+::: {}
+### Mid-term review: Global Biodiversity Standard
+
+[Role: co-evaluator]{.role}
+
+A review of Botanic Gardens Conservation International's independent standard for verifying biodiversity outcomes in nature-based restoration, with fieldwork in Kenya and remote data collection in five more countries. It assessed the Theory of Change, verified outcomes, and judged the Standard's rigour and scalability across land, freshwater and coastal restoration.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Madagascar** \
+UK Defra and Royal Botanic Gardens Kew \
+2022–2025
+:::
+::: {}
+### Sustainable forest management through community managed protected areas
+
+[Role: impact evaluation expert and project manager]{.role}
+
+Monitoring, evaluation and learning workstream for a Biodiverse Landscapes Fund programme on community forest conservation: a quasi-experimental sampling strategy, household survey instruments, remote sensing and GIS advice, data quality assurance and outcome reporting.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Mozambique** \
+FCDO and IDRC \
+2019–2022
+:::
+::: {}
+### Renewable Energy for Maputo (REFORMA)
+
+[Role: socioeconomic research lead]{.role}
+
+Led the socioeconomic research on making southern Mozambique's woodfuel sector more sustainable. Designed the sampling frame and household surveys for a panel dataset, ran the data work from enumerator training to analysis, and wrote policy reporting used in briefings for the Government of Mozambique.
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Bulawayo, Zimbabwe** \
+Scottish Funding Council \
+2020
+:::
+::: {}
+### Urban mapping in response to COVID-19
+
+[Role: research analyst]{.role}
+
+Satellite imagery and geospatial analysis for municipal pandemic planning. Classified urban imagery to produce high-resolution building density maps, helping officials find high-risk areas and target social distancing measures.
+:::
+:::
+
+## Research {#research}
+
+::: {.project}
+::: {.meta}
+**Mozambique** \
+[In progress]{.status}
+:::
+::: {}
+### [District poverty in Mozambique](mozambique-poverty.qmd)
+
+Small area poverty estimates for all 157 districts, using the 2022–23 Demographic and Health Survey and open geospatial data in spatial Fay-Herriot models, with calibrated uncertainty and a simulation study.
+
+[Read more](mozambique-poverty.qmd), [code](https://github.com/mirrormerelabs/mozambique_sae), [interactive map](https://mirrormerelabs.github.io/mozambique_sae/)
+:::
+:::
+
+::: {.project}
+::: {.meta}
+**Cabo Delgado, Mozambique** \
+[In progress]{.status}
+:::
+::: {}
+### [Cropland and conflict in Cabo Delgado](cabo-delgado.qmd)
+
+Did armed conflict make farming shrink, relocate or expand? Each year's land use is mapped from Sentinel-2, Sentinel-1 and Landsat, without a fixed cropland mask, and six conflict-core districts are compared with two low-conflict controls. The method is open and built to transfer to the Democratic Republic of Congo, South Sudan and Ethiopia.
+
+[Read more](cabo-delgado.qmd)
+<!-- When the repository is public, add: , [code](https://github.com/mirrormerelabs/REPO-NAME) -->
+:::
+:::

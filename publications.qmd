@@ -1,0 +1,24 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+::: {.pubs}
+- Hargreaves, P.K. and Watmough, G.R. (2021). Satellite Earth observation to support sustainable rural development. *International Journal of Applied Earth Observation and Geoinformation*, 103, 102466.
+- Wells, G.J., Ryan, C.M., Artur, L., Ribeiro, N., Bowers, S., Hargreaves, P.K., Fernando, J., Farao, A. and Fisher, J.A. (2022). Tree harvesting is not the same as deforestation. *Nature Climate Change*, 12(4), 307–309.
+:::
+
+## Conference, working and policy papers
+
+::: {.pubs}
+- Gibson, L., Sibanda, B.N., Gwate, O., Sibanda, S., Hargreaves, P.K. and Watmough, G.R. (2020). Bulawayo Operational Observatory and mapping in response to COVID-19 social distancing requirements. *Space, Satellites, and Sustainability*, 11527, 16–22. SPIE.
+- Júnior, J.F. et al. (2022). Produção Sustentável de Carvão Vegetal em Moçambique: contribution to the draft Forestry Law. *Destaque Rural*, 179, p. 13.
+:::
+
+## Technical guidance
+
+::: {.pubs}
+- Biodiversity Challenge Funds (2026). [Standard indicator method note: number of people with enhanced livelihoods](https://www.darwininitiative.org.uk/media/t0tpplkt/bcfs-standard-indicator-method-note-sustainable-livelihoods-feb-26-final.pdf).
+- Biodiversity Challenge Funds (2026). [Standard indicator method note: number of people with enhanced wellbeing](https://www.darwininitiative.org.uk/media/02jli0bt/bcfs-standard-indicator-method-note-livelihoods-and-poverty-jan-26-final-final.pdf).
+:::

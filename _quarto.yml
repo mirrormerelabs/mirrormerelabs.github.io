@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+    - images/
+    - files/
+
+website:
+  title: "Mirrormere Labs"
+  description: "Mirrormere Labs is an independent consultancy in Edinburgh, UK, offering impact evaluation, monitoring and evaluation (MEL), satellite and geospatial analysis, and social and environmental outcome measurement for development programmes, funders and nature-based solutions."
+  site-url: "https://www.mirrormerelabs.org"
+  favicon: images/favicon.svg
+  open-graph: true
+  page-navigation: false
+  search: false
+  navbar:
+    right:
+      - text: Services
+        href: services.qmd
+      - text: Work
+        href: work/index.qmd
+      - text: About
+        href: about.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Contact
+        href: contact.qmd
+      - icon: github
+        href: https://github.com/mirrormerelabs
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/peter-hargreaves-b57932107/
+        aria-label: LinkedIn
+  page-footer:
+    left: |
+      Mirrormere Labs, Summit House, 4-5 Mitchell Street, Edinburgh EH6 7BD
+    right:
+      - text: "peter@mirrormerelabs.org"
+        href: "mailto:peter@mirrormerelabs.org"
+      - text: GitHub
+        href: https://github.com/mirrormerelabs
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/peter-hargreaves-b57932107/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: false

@@ -1,0 +1,29 @@
+---
+title: "About"
+description-meta: "Dr Peter Hargreaves, geospatial data scientist and evaluation specialist in Edinburgh, UK, founder of Mirrormere Labs."
+---
+
+::: {.about-intro}
+<img src="images/peter-hargreaves.webp" alt="Portrait of Peter Hargreaves" width="176" height="176">
+
+[I'm Dr Peter Hargreaves, a geospatial data scientist and evaluation specialist based in Edinburgh. I founded Mirrormere Labs because better evidence leads to better decisions.]{.lede}
+:::
+
+For eight years I have worked where people and nature meet, mostly in Sub-Saharan Africa, combining household surveys with satellite Earth observation in 17 countries. My PhD at the University of Edinburgh used machine learning and satellite data to measure rural wellbeing in Mozambique, and the question of how to measure poverty well, and how it changes, still drives my work.
+
+Since then I have designed surveys and impact evaluations for UK Government and philanthropic programmes in biodiversity, forests, livelihoods and climate adaptation. At NIRAS I managed an £800,000 UK Government-funded programme from start to finish and reviewed results across a portfolio of more than 700 projects. Clients and funders include FCDO, UK Defra, IDRC, the Rockefeller Foundation, Mastercard Foundation, NERC and the Scottish Funding Council.
+
+I'm based in Edinburgh and work internationally, in English.
+
+## Qualifications
+
+::: {.pubs}
+- **PhD, Satellite Data for Economic Development**, University of Edinburgh, 2023. Funded by the Natural Environment Research Council.
+- **MSc, Ecosystem Services** (Distinction), University of Edinburgh, 2017.
+- **BSc (Hons), Ecological and Environmental Sciences**, University of Edinburgh, 2015.
+:::
+
+::: {.actions}
+[Download my CV (PDF)](files/Peter-Hargreaves-CV.pdf){.btn-solid}
+[Get in touch](contact.qmd){.btn-line}
+:::
