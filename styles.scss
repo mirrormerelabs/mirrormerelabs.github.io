@@ -226,3 +226,8 @@ body.home .navbar .nav-link, body.home .navbar .bi, body.home .navbar .aa-Detach
 body.home .navbar .nav-link:hover { color: #9EC5F4; }
 body.home .navbar .navbar-toggler-icon { filter: invert(1); }
 body.home .band { margin-top: -3rem; }
+
+// Logo in the menu bar
+.navbar .navbar-logo { height: 34px; max-height: none; width: auto; margin-right: 0.35rem; }
+
+body.home .navbar .navbar-logo { filter: brightness(1.45) saturate(1.1); }

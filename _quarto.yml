@@ -15,6 +15,8 @@ website:
   page-navigation: false
   search: false
   navbar:
+    logo: images/brand/logo-mark-small.svg
+    logo-alt: "Mirrormere Labs logo"
     right:
       - text: Services
         href: services.qmd
@@ -45,6 +47,9 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: |
+        <link rel="apple-touch-icon" href="/images/brand/apple-touch-icon.png">
     theme:
       - cosmo
       - styles.scss
