@@ -22,7 +22,7 @@ This project fills that gap. It combines the latest Demographic and Health Surve
 ## Interactive map
 
 ::: {.map-wrap}
-<iframe class="map-frame" src="https://mirrormerelabs.github.io/mozambique_sae/" title="Interactive map of district poverty estimates in Mozambique" loading="lazy"></iframe>
+<iframe class="map-frame" src="/mozambique_sae/" title="Interactive map of district poverty estimates in Mozambique" loading="lazy"></iframe>
 :::
 
 [[Open the map full screen](https://mirrormerelabs.github.io/mozambique_sae/), or see [the code and full method on GitHub](https://github.com/mirrormerelabs/mozambique_sae).]{.map-note}
