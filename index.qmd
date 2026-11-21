@@ -1,6 +1,6 @@
 ---
-pagetitle: "Mirrormere Labs | Impact evaluation, monitoring and satellite data for people and nature"
-description-meta: "Independent consultancy in Edinburgh, UK. Impact evaluation, monitoring and evaluation (MEL), satellite and geospatial analysis, and social and environmental outcome measurement for development programmes, funders and nature-based solutions."
+pagetitle: "Mirrormere Labs | Impact evaluation and satellite data for people and nature"
+description-meta: "Mirrormere Labs is an independent consultancy in Edinburgh, UK, offering impact evaluation, monitoring and evaluation (MEL), and satellite and geospatial analysis for development programmes, their funders, and nature-based solutions."
 page-layout: full
 body-classes: home
 ---
@@ -10,7 +10,7 @@ body-classes: home
 <img class="band-art" src="images/fells.svg" alt="" aria-hidden="true">
 <div class="band-inner"><div class="band-text">
 <p class="hero-question" role="heading" aria-level="1">How do we measure where people are poor, and how that changes, well enough to direct policy and resources?</p>
-<p class="hero-sub">Mirrormere Labs helps development programmes, funders and nature-focused businesses measure what their work changes for people and nature. I combine impact evaluation, monitoring, household surveys and satellite data, and turn complex programmes into outcomes you can measure and act on.</p>
+<p class="hero-sub">Mirrormere Labs is an independent consultancy that helps development programmes and their funders, as well as businesses working with nature, to understand what their work is changing for people and the environment. I combine impact evaluation and monitoring with household surveys and satellite data, with the aim of turning complex programmes into outcomes that can be measured and acted upon.</p>
 <div class="actions"><a class="btn-solid" href="services.html">See services</a><a class="btn-line" href="contact.html">Get in touch</a></div>
 </div></div>
 </section>
@@ -22,41 +22,41 @@ body-classes: home
 ::: {}
 ### Impact evaluation
 
-Independent mid-term reviews, baselines and impact evaluations, theory-based or quasi-experimental, against the OECD-DAC criteria.
+Independent mid-term reviews and impact evaluations, using theory-based or quasi-experimental designs and assessed against the OECD-DAC criteria.
 :::
 
 ::: {}
 ### Monitoring and adaptive management
 
-Theories of Change, results frameworks, indicators and MEL systems that help teams learn and adjust as they go.
+Theories of Change, results frameworks, indicators, and MEL systems designed so that teams can learn from their data and adjust their approach during implementation.
 :::
 
 ::: {}
 ### Satellite data
 
-Land cover, forest, cropland and settlement change mapped at scale, with accuracy and uncertainty stated.
+Mapping of land cover, forest, cropland, and settlement change at landscape scale, with accuracy and uncertainty reported alongside every estimate.
 :::
 
 ::: {}
 ### Nature-based solutions
 
-Baselines and outcome measurement for restoration, conservation and other nature-based projects.
+Baselines and outcome measurement for restoration and conservation projects, covering ecological change and its effects on local livelihoods.
 :::
 
 ::: {}
 ### Social and environmental outcomes
 
-Livelihoods, wellbeing and poverty measured alongside ecological change, from household surveys to district-level estimates.
+Wellbeing and poverty measured alongside ecological change, from household surveys through to district-level estimates.
 :::
 
 ::: {}
 ### Clear outcomes from complex ideas
 
-Turning ambitious programmes into a few outcomes that boards, investors and funders can understand and track.
+Translating ambitious programmes into a small set of outcomes that boards and investors can understand and track over time.
 :::
 :::
 
-[More on services, and how I work](services.qmd)
+[More on services and how I work](services.qmd)
 
 ## Selected work
 
@@ -100,21 +100,21 @@ Poverty estimates for all 157 districts, built from the 2022–23 Demographic an
 
 ## Who I work with
 
-[Mastercard Foundation, the Rockefeller Foundation, UK Defra (Biodiversity Challenge Funds and the Biodiverse Landscapes Fund), FCDO, IDRC, Royal Botanic Gardens Kew, NIRAS, WUSC, NERC and the Scottish Funding Council.]{.funders}
+[The Mastercard Foundation, the Rockefeller Foundation, UK Defra (the Biodiversity Challenge Funds and the Biodiverse Landscapes Fund), FCDO, IDRC, Royal Botanic Gardens Kew, NIRAS, WUSC, NERC, and the Scottish Funding Council.]{.funders}
 
-## Where I've worked
+## Where I have worked
 
 ::: {.map-wrap}
 <iframe class="map-frame" src="/Where-I-work-Map/" title="Interactive map of evaluation, research and policy projects" loading="lazy"></iframe>
 :::
 
-[Evaluation, research and policy projects across Africa, South America and South Asia. [Open the map full screen](https://mirrormerelabs.github.io/Where-I-work-Map/), or see [the code behind it](https://github.com/mirrormerelabs/Where-I-work-Map).]{.map-note}
+[Evaluation and research projects across Africa, South America, and South Asia. [Open the map full screen](https://mirrormerelabs.github.io/Where-I-work-Map/), or see [the code behind it](https://github.com/mirrormerelabs/Where-I-work-Map).]{.map-note}
 
 ::: {.contact-strip}
 ::: {}
-## Need evidence on what your work is changing?
+## Working together
 
-I take on evaluations, monitoring and satellite-data work for development programmes, funders, and nature and climate businesses. Email me at [{{< var email >}}](mailto:{{< var email >}}), or download my [CV](files/Peter-Hargreaves-CV.pdf).
+I am available for evaluation and geospatial work with development programmes and their funders, and with businesses working on nature and climate. You can email me at [{{< var email >}}](mailto:{{< var email >}}), or download my [CV](files/Peter-Hargreaves-CV.pdf).
 :::
 ::: {}
 [Get in touch](contact.qmd){.btn-solid}

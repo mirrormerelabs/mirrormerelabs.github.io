@@ -47,22 +47,16 @@ for i in range(9):
     y = HZ + 10 + i*11
     if y > H - 6: break
     x = random.randint(x0-40, W-260); w = random.randint(80, 220)
-    rips.append(f'<rect class="rip r{i%3}" x="{x}" y="{y}" width="{w}" height="1.2" rx="0.6" fill="{rip_col}" opacity="{rip_op}"/>')
+    rips.append(f'<rect x="{x}" y="{y}" width="{w}" height="1.2" rx="0.6" fill="{rip_col}" opacity="{rip_op}"/>')
 grat = "".join(f'<path d="M0 {y} H{W}" stroke="{grat_col}" stroke-opacity="{grat_op}"/>' for y in range(40, HZ, 43)) + \
        "".join(f'<path d="M{x} 0 V{HZ}" stroke="{grat_col}" stroke-opacity="{grat_op}"/>' for x in range(80, W, 80)) if grat_op else ""
-sat = f'<g class="sat"><circle cx="0" cy="34" r="2.2" fill="#ffffff" opacity="0.85"/><path d="M-46 34 H-4" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1"/></g>' if theme=="dark" else ""
+sat = "" if True else f'<g class="sat"><circle cx="0" cy="34" r="2.2" fill="#ffffff" opacity="0.85"/><path d="M-46 34 H-4" stroke="#ffffff" stroke-opacity="0.25" stroke-width="1"/></g>' if theme=="dark" else ""
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" preserveAspectRatio="xMaxYMax meet" role="img" aria-label="Hills drawn as land-cover pixels, woodland, grassland and cropland, reflected in a lake">
 <defs>
 <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{sky[0]}"/><stop offset="1" stop-color="{sky[1]}"/></linearGradient>
 <linearGradient id="mere" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{mere[0]}"/><stop offset="1" stop-color="{mere[1]}"/></linearGradient>
 <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="{mere[1]}" stop-opacity="0"/><stop offset="1" stop-color="{mere[1]}" stop-opacity="0.85"/></linearGradient>
-<style>
-.rip {{ animation: drift 14s ease-in-out infinite alternate; }} .r1 {{ animation-duration: 19s; }} .r2 {{ animation-duration: 23s; }}
-@keyframes drift {{ from {{ transform: translateX(0); }} to {{ transform: translateX(-60px); }} }}
-.sat {{ animation: orbit 38s linear infinite; }}
-@keyframes orbit {{ from {{ transform: translateX(-60px); }} to {{ transform: translateX({W+60}px); }} }}
-@media (prefers-reduced-motion: reduce) {{ .rip, .sat {{ animation: none; }} }}
-</style></defs>
+</defs>
 {grat}{sat}
 <g opacity="{refl_op}">{"".join(refl)}</g>
 {"".join(rips)}<g>{"".join(far)}</g><g>{"".join(land)}</g>

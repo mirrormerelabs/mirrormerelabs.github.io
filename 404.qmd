@@ -2,4 +2,4 @@
 title: "Page not found"
 ---
 
-This page doesn't exist, or it moved when the site was rebuilt. Try the [home page](/index.html), [Work](/work/index.html) or [Contact](/contact.html).
+This page does not exist, or it may have moved when the site was rebuilt. The [home page](/index.html) and the [Work](/work/index.html) page are good places to start.

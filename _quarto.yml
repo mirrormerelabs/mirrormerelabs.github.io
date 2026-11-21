@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Mirrormere Labs"
-  description: "Mirrormere Labs is an independent consultancy in Edinburgh, UK, offering impact evaluation, monitoring and evaluation (MEL), satellite and geospatial analysis, and social and environmental outcome measurement for development programmes, funders and nature-based solutions."
+  description: "Mirrormere Labs is an independent consultancy in Edinburgh, UK, offering impact evaluation, monitoring and evaluation (MEL), and satellite and geospatial analysis for development programmes, their funders, and nature-based solutions."
   site-url: "https://www.mirrormerelabs.org"
   favicon: images/favicon.svg
   open-graph: true
@@ -50,6 +50,9 @@ format:
     include-in-header:
       text: |
         <link rel="apple-touch-icon" href="/images/brand/apple-touch-icon.png">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400&family=Public+Sans:wght@400..750&display=swap">
     theme:
       - cosmo
       - styles.scss

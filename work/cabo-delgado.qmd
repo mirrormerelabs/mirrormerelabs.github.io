@@ -7,11 +7,11 @@ subtitle: "Did armed conflict make agriculture move?"
 
 ## What it aims to achieve
 
-The project asks whether armed conflict in Cabo Delgado, northern Mozambique, made agriculture move: shrink, relocate or expand.
+The project asks whether armed conflict in Cabo Delgado, in northern Mozambique, caused agriculture to move, whether by shrinking, relocating, or expanding.
 
-The original question was narrower: did existing farmland get worse? The broader framing matters for two reasons. When fields are abandoned because of conflict, they usually turn to scrub, so vegetation gets greener, not browner. And displaced people clear new land where they settle. A fixed cropland mask would miss both.
+The original question was narrower, asking whether existing farmland had deteriorated. The broader framing matters for two reasons. First, fields abandoned because of conflict usually revert to scrub, so vegetation tends to become greener rather than browner. Second, displaced people often clear new land where they settle. A fixed cropland mask would miss both of these effects.
 
-The study compares six conflict-core districts with two low-conflict control districts, Chiure and Namuno. The aim is an open, reproducible method that can then be applied in the Democratic Republic of Congo, South Sudan and Ethiopia. Making it transferable is a core design rule, and it sets this work apart from the one comparable local study (Bacar & Faque, 2025).
+The study compares six conflict-core districts with two low-conflict control districts, Chiure and Namuno. The aim is an open and reproducible method that can then be applied in the Democratic Republic of Congo, South Sudan, and Ethiopia. Making it transferable is a core design rule, and it sets this work apart from the one comparable local study (Bacar & Faque, 2025).
 
 ## How it works
 
@@ -24,10 +24,10 @@ The study compares six conflict-core districts with two low-conflict control dis
 
 ### Method
 
-- Each pixel gets a smoothed time series for each agricultural year. Phenology features are extracted from it: amplitude, seasonal integral, timing, dry-season baseline and others.
-- Each year, every pixel across the whole landscape is classified as cultivated, natural, water or settlement. There is no fixed cropland mask.
-- Movement is measured as new cultivation, abandonment, net change, centroid shift and distance to the cultivation frontier.
-- Shifting cultivation moves fields around anyway, so "normal" movement is measured from the baseline years and the control districts. The conflict effect is the departure from that normal.
+- Each pixel gets a smoothed time series for each agricultural year. Phenology features are then extracted from it, including amplitude, seasonal integral, timing, and dry-season baseline.
+- Each year, every pixel across the whole landscape is classified as cultivated, natural, water, or settlement, rather than relying on a fixed cropland mask.
+- Movement is measured as new cultivation, abandonment, net change, centroid shift, and distance to the cultivation frontier.
+- Because shifting cultivation moves fields in any case, "normal" movement is measured from the baseline years and the control districts, and the conflict effect is estimated as the departure from that norm.
 
 ### Conflict and confounders
 

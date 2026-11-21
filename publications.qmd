@@ -9,7 +9,7 @@ title: "Publications"
 - Wells, G.J., Ryan, C.M., Artur, L., Ribeiro, N., Bowers, S., Hargreaves, P.K., Fernando, J., Farao, A. and Fisher, J.A. (2022). Tree harvesting is not the same as deforestation. *Nature Climate Change*, 12(4), 307–309.
 :::
 
-## Conference, working and policy papers
+## Conference, working, and policy papers
 
 ::: {.pubs}
 - Gibson, L., Sibanda, B.N., Gwate, O., Sibanda, S., Hargreaves, P.K. and Watmough, G.R. (2020). Bulawayo Operational Observatory and mapping in response to COVID-19 social distancing requirements. *Space, Satellites, and Sustainability*, 11527, 16–22. SPIE.

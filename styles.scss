@@ -1,5 +1,7 @@
 /*-- scss:defaults --*/
 
+$web-font-path: false;   // stop the theme loading a font the site never uses
+
 // Palette: a lake under a satellite pass
 $ink:    #0F1E2E;   // text
 $lake:   #1F4C7A;   // primary accent, links (banner navy-blue)
@@ -30,7 +32,6 @@ $footer-fg: #4A5A60;
 
 /*-- scss:rules --*/
 
-@import url("https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;1,7..72,400&family=Public+Sans:wght@400;500;650;750&display=swap");
 
 body {
   font-family: $font-family-sans-serif;

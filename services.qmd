@@ -1,56 +1,56 @@
 ---
 title: "Services"
-description-meta: "Impact evaluation, monitoring and adaptive management, satellite and geospatial analysis, nature-based solutions and social and environmental outcome measurement, from Mirrormere Labs in Edinburgh."
+description-meta: "Impact evaluation, monitoring and adaptive management, satellite and geospatial analysis, nature-based solutions, and social and environmental outcome measurement from Mirrormere Labs in Edinburgh."
 ---
 
-[I help organisations find out what their work is changing for people and nature, and show it clearly. I work with development programmes and funders, and with businesses and investors in nature and climate.]{.lede}
+[I help organisations to understand what their work is changing for people and nature, and to communicate that evidence clearly. Clients include development programmes and the organisations that fund them, as well as businesses and investors working on nature and climate.]{.lede}
 
 ## What I offer
 
 ### Impact evaluation
 
-Independent mid-term reviews, baselines, endlines and impact evaluations. Theory-based evaluation built on a clear Theory of Change, so the question is how and why change happened, not only whether it did. Quasi-experimental and experimental designs, power analysis and multi-stage sampling, with outcomes verified against the OECD-DAC criteria. Recent reviews for UK Defra's Biodiversity Challenge Funds and Biodiverse Landscapes Fund, and baseline support for Mastercard Foundation.
+I conduct independent mid-term reviews, baselines, endlines, and impact evaluations. My approach is theory-based and built on a clear Theory of Change, so that an evaluation asks how and why change occurred as well as whether it did. Where the context allows, I use quasi-experimental or experimental designs supported by power analysis and multi-stage sampling, and I assess outcomes against the OECD-DAC criteria. Recent work includes reviews for UK Defra's Biodiversity Challenge Funds and Biodiverse Landscapes Fund, and baseline support for a Mastercard Foundation programme.
 
 ### Monitoring and adaptive management
 
-Monitoring, evaluation and learning (MEL) systems that teams actually use: Theories of Change, results frameworks, indicators and data collection plans, with regular points to review the evidence and adjust. I have also reviewed results across a portfolio of more than 700 projects, so I know what makes monitoring data usable at scale.
+I design monitoring, evaluation, and learning (MEL) systems that teams use to guide decisions during implementation. These combine Theories of Change, results frameworks, indicators, and data collection plans with regular points at which the evidence is reviewed and the approach adjusted. Having reviewed results across a portfolio of more than 700 projects, I have a practical understanding of what makes monitoring data usable at scale.
 
-I worked on the Biodiversity Challenge Funds' 2026 standard indicator method notes for measuring [enhanced livelihoods](https://www.darwininitiative.org.uk/media/t0tpplkt/bcfs-standard-indicator-method-note-sustainable-livelihoods-feb-26-final.pdf) and [enhanced wellbeing](https://www.darwininitiative.org.uk/media/02jli0bt/bcfs-standard-indicator-method-note-livelihoods-and-poverty-jan-26-final-final.pdf).
+I also contributed to the Biodiversity Challenge Funds' 2026 standard indicator method notes on measuring [enhanced livelihoods](https://www.darwininitiative.org.uk/media/t0tpplkt/bcfs-standard-indicator-method-note-sustainable-livelihoods-feb-26-final.pdf) and [enhanced wellbeing](https://www.darwininitiative.org.uk/media/02jli0bt/bcfs-standard-indicator-method-note-livelihoods-and-poverty-jan-26-final-final.pdf).
 
 ### Satellite data and geospatial analysis
 
-Satellite imagery (Sentinel-1 and 2, Landsat) and GIS to map land cover and land use change, forest loss, cropland and settlement across whole landscapes, including places that are hard or unsafe to visit. Results come with accuracy assessments and error-adjusted areas, so you know how far to trust them.
+I use satellite imagery, principally from Sentinel-1, Sentinel-2, and Landsat, together with GIS to map land cover and land use change, forest loss, cropland, and settlement across whole landscapes, including areas that are difficult or unsafe to visit. Each output is accompanied by an accuracy assessment and error-adjusted area estimates, which indicate how much confidence the results can support.
 
 ### Nature-based solutions
 
-Baselines, monitoring and outcome measurement for restoration, conservation and other nature-based projects, covering both the ecological results and what changes for the people who live there. My MSc in Ecosystem Services and work on biodiversity standards and conservation programmes underpin this.
+I provide baselines, monitoring, and outcome measurement for restoration and conservation projects, covering ecological results and the changes experienced by people who live in and around project sites. This work draws on my MSc in Ecosystem Services and on recent evaluations of biodiversity standards and conservation programmes.
 
 ### Social and environmental outcomes
 
-Livelihoods, wellbeing and poverty measured alongside environmental change. Household surveys, sampling frames, enumerator training, interviews and focus groups, and data quality assurance, in low-resource settings. Where surveys are too thin, small area estimation and machine learning fill the gaps, with uncertainty reported.
+I measure livelihoods, wellbeing, and poverty alongside environmental change. In low-resource settings this includes household survey design, sampling frames, enumerator training, key informant interviews and focus groups, and data quality assurance. Where survey data are too sparse to support reliable estimates, small area estimation and machine learning can help to fill the gaps, provided their uncertainty is reported.
 
 ### Clear outcomes from complex ideas
 
-Ambitious programmes often promise many things at once. I help teams pin down a small number of outcomes that matter, define how to measure them, and report them in plain language for boards, investors, funders and governments.
+Ambitious programmes often set out to achieve a great deal at once. I work with teams to agree the small number of outcomes that matter most and how each will be measured, so that progress can be reported in plain language to boards, investors, funders, and government partners.
 
 ## Who I work with
 
 ### Development programmes and funders
 
-Independent evaluations and reviews, MEL design and quality assurance for programmes funded by UK Government and foundations, and as a technical expert on bids and evaluation teams.
+I carry out independent evaluations and quality assurance for programmes funded by the UK Government and philanthropic foundations, and I join bid and evaluation teams as a technical expert.
 
 ### Nature and climate businesses and investors
 
-Project developers, impact investors and sustainability teams who need credible evidence of social and environmental outcomes: baselines for nature-based projects, satellite monitoring of land and restoration, and outcome frameworks that stand up to scrutiny.
+I work with project developers, investors, and sustainability teams that need credible evidence of social and environmental outcomes. Typical work includes baselines for nature-based projects and satellite monitoring of land use change, together with outcome frameworks that can withstand external scrutiny.
 
 ## How I work
 
 ::: {.principles}
-- **Reproducible.** Numbered scripts, locked environments, logged runs and automated checks, so anyone can rerun the analysis and get the same answer.
-- **Honest about uncertainty.** Estimates come with intervals, and methods are tested on simulated data before they are used on real data.
-- **Clear about limits.** Every project states what the data can't show and anything that changed from the original plan.
-- **Plain language first.** Each project starts with a summary a non-specialist can read.
-- **Responsible with data.** I publish aggregated results and code, never survey microdata or confidential locations.
+- **Reproducible.** Analyses are built from numbered scripts with locked environments, logged runs, and automated checks, so that anyone can rerun them and obtain the same results.
+- **Honest about uncertainty.** Estimates are reported with intervals, and methods are tested on simulated data before they are applied to real data.
+- **Clear about limitations.** Each project states what the data cannot show, together with any departures from the original plan.
+- **Plain language first.** Each project opens with a summary written for a non-specialist reader.
+- **Responsible with data.** I publish aggregated results and code, but never survey microdata or confidential locations.
 :::
 
 ## Tools
@@ -72,9 +72,9 @@ Project developers, impact investors and sustainability teams who need credible 
 
 ::: {.contact-strip}
 ::: {}
-## Talk through a project
+## Discussing a project
 
-Tell me what you're trying to show, and I'll suggest how to measure it.
+If you can describe what you are trying to demonstrate, I can suggest how it might be measured.
 :::
 ::: {}
 [Get in touch](contact.qmd){.btn-solid}

@@ -1,11 +1,11 @@
 ---
 title: "Contact"
-description-meta: "Contact Mirrormere Labs about impact evaluation, monitoring, satellite data and nature-based solutions work."
+description-meta: "Contact Mirrormere Labs about impact evaluation, monitoring, satellite data, and nature-based solutions."
 ---
 
-[If you're planning a programme, evaluation, bid or investment that needs solid evidence on social or environmental change, I'd be glad to talk.]{.lede}
+[If you are planning a programme, evaluation, bid, or investment that needs robust evidence on social or environmental change, I would be glad to discuss it.]{.lede}
 
-I take on independent evaluations, MEL design, satellite and geospatial analysis, and outcome measurement for development programmes, funders, and nature and climate businesses. It helps to include a line on the project, the timing and what you need to show.
+I take on independent evaluations, MEL design, geospatial analysis, and outcome measurement for development programmes and their funders, and for businesses working on nature and climate. It is helpful to include a short note on the project and its timeline, and on what you need the evidence to show.
 
 **Email:** [{{< var email >}}](mailto:{{< var email >}})
 

@@ -6,14 +6,14 @@ description-meta: "Dr Peter Hargreaves, geospatial data scientist and evaluation
 ::: {.about-intro}
 <img src="images/peter-hargreaves.webp" alt="Portrait of Peter Hargreaves" width="176" height="176">
 
-[I'm Dr Peter Hargreaves, a geospatial data scientist and evaluation specialist based in Edinburgh. I founded Mirrormere Labs because better evidence leads to better decisions.]{.lede}
+[I am Dr Peter Hargreaves, a geospatial data scientist and evaluation specialist based in Edinburgh. I founded Mirrormere Labs on the belief that better evidence leads to better decisions.]{.lede}
 :::
 
-For eight years I have worked where people and nature meet, mostly in Sub-Saharan Africa, combining household surveys with satellite Earth observation in 17 countries. My PhD at the University of Edinburgh used machine learning and satellite data to measure rural wellbeing in Mozambique, and the question of how to measure poverty well, and how it changes, still drives my work.
+For eight years I have worked at the interface of people and nature, mainly in Sub-Saharan Africa, combining household surveys with satellite Earth observation across 17 countries. My PhD at the University of Edinburgh used machine learning and satellite data to measure rural wellbeing in Mozambique, and the question of how to measure poverty well, and how it changes over time, continues to shape my work.
 
-Since then I have designed surveys and impact evaluations for UK Government and philanthropic programmes in biodiversity, forests, livelihoods and climate adaptation. At NIRAS I managed the MEL component of an £800,000 UK Government-funded programme on conservation and community development in Madagascar, and reviewed results across a portfolio of more than 700 projects. Clients and funders include FCDO, UK Defra, IDRC, the Rockefeller Foundation, Mastercard Foundation, NERC and the Scottish Funding Council.
+Since then I have designed surveys and impact evaluations for UK Government and philanthropic programmes working on biodiversity, forests, livelihoods, and climate adaptation. At NIRAS I managed the MEL component of an £800,000 UK Government-funded programme on conservation and community development in Madagascar, and reviewed results across a portfolio of more than 700 projects. Clients and funders include FCDO, UK Defra, IDRC, the Rockefeller Foundation, the Mastercard Foundation, NERC, and the Scottish Funding Council.
 
-I'm based in Edinburgh and work internationally, in English.
+I am based in Edinburgh and work internationally.
 
 ## Qualifications
 

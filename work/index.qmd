@@ -2,7 +2,7 @@
 title: "Work"
 ---
 
-[Independent evaluations, reviews and studies for conservation and development programmes across Africa, Asia and Latin America, and research I lead through Mirrormere Labs.]{.lede}
+[Independent evaluations and studies for conservation and development programmes across Africa, Asia, and Latin America, followed by research that I lead through Mirrormere Labs.]{.lede}
 
 ## Evaluations and studies {#evaluations}
 
@@ -17,7 +17,7 @@ May–August 2026
 
 [Role: evaluation lead]{.role}
 
-A mid-term review of IIED's programme scaling the Site-level Assessment of Governance and Equity (SAGE) tool across five countries, with fieldwork in Madagascar and remote data collection elsewhere. It assesses progress against the Theory of Change, verifies outcomes against the OECD-DAC criteria, and looks at how equitable governance is built in at site level, in line with the 30x30 commitments of the Kunming-Montreal Global Biodiversity Framework.
+A mid-term review of IIED's programme scaling the Site-level Assessment of Governance and Equity (SAGE) tool across five countries, with fieldwork in Madagascar and remote data collection elsewhere. The review assessed progress against the Theory of Change and verified outcomes against the OECD-DAC criteria, with particular attention to how equitable governance is embedded at site level in line with the 30x30 commitments of the Kunming-Montreal Global Biodiversity Framework.
 :::
 :::
 
@@ -32,7 +32,7 @@ NIRAS for UK Defra Biodiversity Challenge Funds \
 
 [Role: review lead]{.role}
 
-A review of a Defra-funded conservation project to appraise progress and sharpen its direction. It tested the Theory of Change and its assumptions and verified outcomes against the OECD-DAC criteria, combining document review with key informant interviews and focus group discussions.
+A review of a Defra-funded conservation project to appraise progress and refine its strategic direction. It tested the Theory of Change and its underlying assumptions and verified outcomes against the OECD-DAC criteria, drawing on document review alongside key informant interviews and focus group discussions.
 :::
 :::
 
@@ -47,7 +47,7 @@ WUSC for Mastercard Foundation \
 
 [Role: MEL expert and quality assurance]{.role}
 
-Monitoring, evaluation and learning support and quality assurance for the baseline of a five-year programme backing women-owned and women-led enterprises. Reviewed data collection tools, supported sampling frames in four countries, and reviewed analysis and reports for technical accuracy.
+Monitoring, evaluation, and learning support and quality assurance for the baseline of a five-year programme supporting women-owned and women-led enterprises. I reviewed data collection tools and draft reports for technical accuracy, and supported the development of sampling frames in four countries.
 :::
 :::
 
@@ -61,7 +61,7 @@ Rockefeller Foundation
 
 [Role: evaluation design]{.role}
 
-Designed an experimental study and statistical power analysis for a programme assessing how adopting solar energy affects women-led small businesses.
+I designed an experimental study and statistical power analysis for a programme assessing how the adoption of solar energy affects women-led small businesses.
 :::
 :::
 
@@ -76,7 +76,7 @@ September–December 2024
 
 [Role: co-evaluator]{.role}
 
-A review of Botanic Gardens Conservation International's independent standard for verifying biodiversity outcomes in nature-based restoration, with fieldwork in Kenya and remote data collection in five more countries. It assessed the Theory of Change, verified outcomes, and judged the Standard's rigour and scalability across land, freshwater and coastal restoration.
+A review of Botanic Gardens Conservation International's independent standard for verifying biodiversity outcomes in nature-based restoration, with fieldwork in Kenya and remote data collection in five more countries. It assessed the Theory of Change and verified outcomes, and considered how rigorous and scalable the Standard is across terrestrial, freshwater, and coastal restoration.
 :::
 :::
 
@@ -91,7 +91,7 @@ UK Defra and Royal Botanic Gardens Kew \
 
 [Role: impact evaluation expert and project manager]{.role}
 
-Monitoring, evaluation and learning workstream for a Biodiverse Landscapes Fund programme on community forest conservation: a quasi-experimental sampling strategy, household survey instruments, remote sensing and GIS advice, data quality assurance and outcome reporting.
+Monitoring, evaluation, and learning workstream for a Biodiverse Landscapes Fund programme on community forest conservation: a quasi-experimental sampling strategy, household survey instruments, remote sensing and GIS advice, data quality assurance, and outcome reporting.
 :::
 :::
 
@@ -106,7 +106,7 @@ FCDO and IDRC \
 
 [Role: socioeconomic research lead]{.role}
 
-Led the socioeconomic research on making southern Mozambique's woodfuel sector more sustainable. Designed the sampling frame and household surveys for a panel dataset, ran the data work from enumerator training to analysis, and wrote policy reporting used in briefings for the Government of Mozambique.
+I led the socioeconomic research workstream for an initiative to improve the sustainability of the woodfuel sector in southern Mozambique. I designed the sampling frame and household surveys for a panel dataset and managed the data lifecycle from enumerator training through to analysis, and the resulting policy reporting informed briefings for the Government of Mozambique.
 :::
 :::
 
@@ -121,7 +121,7 @@ Scottish Funding Council \
 
 [Role: research analyst]{.role}
 
-Satellite imagery and geospatial analysis for municipal pandemic planning. Classified urban imagery to produce high-resolution building density maps, helping officials find high-risk areas and target social distancing measures.
+Satellite imagery and geospatial analysis to support municipal pandemic planning. I developed methods to classify urban imagery and produce high-resolution building density maps, which helped officials to identify high-risk areas and target social distancing measures.
 :::
 :::
 
@@ -137,7 +137,7 @@ Satellite imagery and geospatial analysis for municipal pandemic planning. Class
 
 Small area poverty estimates for all 157 districts, using the 2022–23 Demographic and Health Survey and open geospatial data in spatial Fay-Herriot models, with calibrated uncertainty and a simulation study.
 
-[Read more](mozambique-poverty.qmd), [code](https://github.com/mirrormerelabs/mozambique_sae), [interactive map](https://mirrormerelabs.github.io/mozambique_sae/)
+[Read more](mozambique-poverty.qmd), or see the [code](https://github.com/mirrormerelabs/mozambique_sae) and the [interactive map](https://mirrormerelabs.github.io/mozambique_sae/).
 :::
 :::
 
@@ -149,7 +149,7 @@ Small area poverty estimates for all 157 districts, using the 2022–23 Demograp
 ::: {}
 ### [Cropland and conflict in Cabo Delgado](cabo-delgado.qmd)
 
-Did armed conflict make farming shrink, relocate or expand? Each year's land use is mapped from Sentinel-2, Sentinel-1 and Landsat, without a fixed cropland mask, and six conflict-core districts are compared with two low-conflict controls. The method is open and built to transfer to the Democratic Republic of Congo, South Sudan and Ethiopia.
+This project asks whether armed conflict caused farming to shrink, relocate, or expand. Land use is mapped for each year from Sentinel-2, Sentinel-1, and Landsat imagery without a fixed cropland mask, and six conflict-core districts are compared with two low-conflict controls. The method is designed to be open and transferable, with applications planned in the Democratic Republic of Congo, South Sudan, and Ethiopia.
 
 [Read more](cabo-delgado.qmd)
 <!-- When the repository is public, add: , [code](https://github.com/mirrormerelabs/REPO-NAME) -->
