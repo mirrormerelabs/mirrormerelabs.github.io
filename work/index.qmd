@@ -19,7 +19,7 @@ title: "Work"
 
 ::: {.project}
 ::: {.meta}
-**Madagascar, Bolivia, Kenya, Nepal, Zambia** \
+**Madagascar, Bolivia, Kenya, Nepal, Tanzania** \
 NIRAS for UK Defra Biodiversity Challenge Funds \
 May–August 2026
 :::
@@ -94,7 +94,7 @@ A review of Botanic Gardens Conservation International's independent standard fo
 ::: {.project}
 ::: {.meta}
 **Madagascar** \
-UK Defra and Royal Botanic Gardens Kew \
+NIRAS for UK Defra and Royal Botanic Gardens Kew \
 2022–2025
 :::
 ::: {}

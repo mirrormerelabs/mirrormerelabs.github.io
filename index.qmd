@@ -1,6 +1,6 @@
 ---
 pagetitle: "Mirrormere Labs | Impact evaluation and satellite data for people and nature"
-description-meta: "Mirrormere Labs is an independent consultancy in Edinburgh, UK, offering impact evaluation, monitoring and evaluation (MEL), and satellite and geospatial analysis for development programmes, their funders, and nature-based solutions."
+description-meta: "Mirrormere Labs is an independent consultancy in Edinburgh, UK, that measures change in poverty and wellbeing, biodiversity, and land use and land cover through impact evaluation and satellite data."
 page-layout: full
 body-classes: home
 ---
@@ -9,8 +9,8 @@ body-classes: home
 <section class="band column-screen">
 <img class="band-art" src="images/fells.svg" alt="" aria-hidden="true">
 <div class="band-inner"><div class="band-text">
-<p class="hero-question" role="heading" aria-level="1">How do we measure where people are poor, and how that changes, well enough to direct policy and resources?</p>
-<p class="hero-sub">Mirrormere Labs is an independent consultancy that helps development programmes and their funders, as well as businesses working with nature, to understand what their work is changing for people and the environment. I combine impact evaluation and monitoring with household surveys and satellite data, with the aim of turning complex programmes into outcomes that can be measured and acted upon.</p>
+<p class="hero-question" role="heading" aria-level="1">How do we know whether people and the landscapes they depend on are changing, with enough confidence to act on it?</p>
+<p class="hero-sub">Mirrormere Labs measures change in poverty and wellbeing, biodiversity, and land use and land cover, combining household surveys and satellite data with rigorous evaluation design. I work with development programmes and their funders, as well as businesses working with nature, to turn complex programmes into outcomes that can be measured and acted upon.</p>
 <div class="actions"><a class="btn-solid" href="services.html">See services</a><a class="btn-line" href="contact.html">Get in touch</a></div>
 </div></div>
 </section>
