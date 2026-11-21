@@ -57,5 +57,26 @@ format:
       - cosmo
       - styles.scss
     toc: false
-    smooth-scroll: true
+    smooth-scroll: false
+    anchor-sections: false
+    code-copy: false
+    footnotes-hover: false
+    citations-hover: false
+    include-after-body:
+      text: |
+        <script>
+          // Swap a map preview for the live map when selected
+          document.addEventListener('click', function (e) {
+            var b = e.target.closest('.map-facade');
+            if (!b) return;
+            var f = document.createElement('iframe');
+            f.className = 'map-frame';
+            f.src = b.dataset.src;
+            f.title = b.dataset.title;
+            b.replaceWith(f);
+          });
+        </script>
+        <script type="speculationrules">
+          {"prerender": [{"where": {"href_matches": "/*"}, "eagerness": "moderate"}]}
+        </script>
     link-external-newwindow: false

@@ -121,9 +121,23 @@ a:hover { text-decoration-thickness: 2px; }
 
 // Embedded maps
 .map-frame {
-  width: 100%; height: 520px; border: 1px solid $rule; border-radius: 2px; background: #fff;
+  display: block; width: 100%; height: 520px; border: 1px solid $rule; border-radius: 2px; background: #fff;
 }
 .map-wrap { margin: 1rem 0 0.5rem; }
+
+// Map placeholder: a static preview that loads the live map only when selected
+.map-facade {
+  position: relative; display: block; width: 100%; height: 520px; padding: 0;
+  border: 1px solid $rule; border-radius: 2px; background: #1b1b1b; overflow: hidden; cursor: pointer;
+}
+.map-facade img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.map-facade-label {
+  position: absolute; right: 1rem; top: 1rem;
+  font-family: $font-family-sans-serif; font-size: 0.95rem; font-weight: 600;
+  color: #fff; background: $lake; padding: 0.6rem 1.1rem; border-radius: 2px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35); transition: background 0.15s ease;
+}
+.map-facade:hover .map-facade-label, .map-facade:focus-visible .map-facade-label { background: darken($lake, 8%); }
 .map-note { font-family: $font-family-sans-serif; font-size: 0.85rem; color: #4A5A60; }
 
 // Funders
@@ -157,7 +171,7 @@ a:hover { text-decoration-thickness: 2px; }
   .areas { grid-template-columns: 1fr; gap: 1rem; }
   .project { grid-template-columns: 1fr; gap: 0.5rem; }
   .contact-strip { grid-template-columns: 1fr; }
-  .map-frame { height: 400px; }
+  .map-frame, .map-facade { height: 400px; }
 }
 
 @media (prefers-reduced-motion: reduce) {

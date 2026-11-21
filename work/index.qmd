@@ -4,6 +4,17 @@ title: "Work"
 
 [Independent evaluations and studies for conservation and development programmes across Africa, Asia, and Latin America, followed by research that I lead through Mirrormere Labs.]{.lede}
 
+::: {.map-wrap}
+```{=html}
+<button class="map-facade" type="button" data-src="/Where-I-work-Map/" data-title="Interactive map of evaluation, research and policy projects" aria-label="Load the interactive map of projects">
+  <img src="/images/map-preview.webp" alt="Map of the countries where Mirrormere Labs has worked, highlighted in Africa, South America, and South Asia" width="1600" height="1040" loading="lazy" decoding="async">
+  <span class="map-facade-label">Explore the interactive map</span>
+</button>
+```
+:::
+
+[Select the map to explore each project by country, or [open it full screen](https://mirrormerelabs.github.io/Where-I-work-Map/).]{.map-note}
+
 ## Evaluations and studies {#evaluations}
 
 ::: {.project}

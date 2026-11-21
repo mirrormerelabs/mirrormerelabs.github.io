@@ -105,7 +105,12 @@ Poverty estimates for all 157 districts, built from the 2022–23 Demographic an
 ## Where I have worked
 
 ::: {.map-wrap}
-<iframe class="map-frame" src="/Where-I-work-Map/" title="Interactive map of evaluation, research and policy projects" loading="lazy"></iframe>
+```{=html}
+<button class="map-facade" type="button" data-src="/Where-I-work-Map/" data-title="Interactive map of evaluation, research and policy projects" aria-label="Load the interactive map of projects">
+  <img src="/images/map-preview.webp" alt="Map of the countries where Mirrormere Labs has worked, highlighted in Africa, South America, and South Asia" width="1600" height="1040" loading="lazy" decoding="async">
+  <span class="map-facade-label">Explore the interactive map</span>
+</button>
+```
 :::
 
 [Evaluation and research projects across Africa, South America, and South Asia. [Open the map full screen](https://mirrormerelabs.github.io/Where-I-work-Map/), or see [the code behind it](https://github.com/mirrormerelabs/Where-I-work-Map).]{.map-note}
